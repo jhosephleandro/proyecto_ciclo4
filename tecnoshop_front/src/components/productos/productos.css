@@ -1,0 +1,22 @@
+#producto-buscar-container, 
+#productos-container,
+#productos-crear-container
+{
+    margin-top: 100px;
+}
+.react-bs-table-sizePerPage-dropdown .dropdown-toggle{
+    float: left;
+    margin-bottom: 20px;
+}
+.search-label{
+    float: right;
+    padding-bottom: 10px;
+}
+.sr-only{
+    font-size: 0;
+}
+
+#productos-crear-container .form-label{
+    float: left;
+    margin-bottom: 10px;
+}
